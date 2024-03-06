@@ -2,10 +2,23 @@ h1 {
 	font-size: 60px;
 	font-family: "Source Sans Pro", sans-serif;
 }
-
+h2 {
+	font-family: "Source Sans Pro", sans-serif; 
+}
+#hobbies
+h2{
+	font-size: 20px;
+}
+h2 {
+	font-family: "Source Sans Pro", sans-serif;
+}
+p{
+	font-family: "Source Sans Pro", sans-serif;
+}
 body {
 	background-color: #b2bec3;
 }
+li {font-size: 18px}
 #grid{
 	display: grid;
 	grid-template-columns: auto auto;
